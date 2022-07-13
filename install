@@ -1,0 +1,8 @@
+clear
+apt install python -y
+apt install python3 -y
+apt install figlet -y
+pip install requests
+pip install colorama
+clear
+figlet PersianElite
