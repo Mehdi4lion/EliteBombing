@@ -11,3 +11,7 @@
 >> bash install
 
 >> python EliteBombing.py
+
+>> tx.txt
+
+>> Hgsvzhzvb<Meti><<T.me/Persian_Elite>>sJdvudbJgfsn
